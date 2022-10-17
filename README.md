@@ -1,6 +1,6 @@
 # Event Timestamp Generator
 
-These programs implement the algorithm presented in our blog post, Synthesizing Realistic Timestamps.
+These programs implement the algorithm presented in our blog post, [Synthesizing Realistic Timestamps](https://www.tonic.ai/blog/simulating-event-pipelines).
 There are two many programs, `analyze.py` and `generate.py`. The only requirement is Python 3.5+.
 
 ## analyze.py
